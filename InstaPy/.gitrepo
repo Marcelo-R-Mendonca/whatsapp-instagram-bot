@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/marcelomendonca84/InstaPy.git
+	branch = master
+	commit = c5581205dd6826124fa5e543dfcdad1eacba5f22
+	parent = 23d9872fb2382f8ac5da27ff135b8c1b8a008631
+	method = merge
+	cmdver = 0.4.0
