@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/marcelomendonca84/WebWhatsapp-Wrapper.git
+	branch = master
+	commit = a5f4c2f95cb49c9229577f9b49fd0bfb2eded357
+	parent = ffa065a76a07541d4d9a3c62b0507e719cd3681b
+	method = merge
+	cmdver = 0.4.0
